@@ -1,0 +1,84 @@
+.hero_item {
+    width: 765px;
+
+}
+
+.hero_title {
+    margin-top: 154px;
+    margin-left: 162px;
+    font-family: 'Gilroy', sans-serif;
+    font-size: 56px;
+    line-height: 69px;
+    width: 433px;
+    height: 206px;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+.hero_subtitle {
+    margin-top: 36px;
+    width: 422px;
+    height: 57px;
+    margin-left: 162px;
+    font-family: 'Gilroy', sans-serif;
+    font-size: 20px;
+}
+
+.hero_1 {
+    display: flex;
+    height: 700px;
+}
+
+.hero_2 {
+    display: flex;
+    height: 700px;
+}
+
+.hero_button {
+    margin-left: 162px;
+    margin-top: 56px;
+}
+
+.btn_hero {
+    font-family: 'Gilroy',sans-serif;
+    font-size: 18px;
+    margin-top: 7px;
+    margin-left: 40px;
+
+    
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF; 
+}
+
+.hero_btn {
+    display: flex;
+    text-decoration: none;
+    
+    width: 200px;
+    height: 50px;
+    background-color: #F7941E;
+    text-align: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.hero_title_1 {
+    font-family: 'Gilroy', sans-serif;
+    font-size: 56px;
+    line-height: 69px;
+    margin-top: 154px;
+    margin-left: 162px;
+}
+
+.hero_subtitle_1 {
+    margin-top: 36px;
+    width: 422px;
+    height: 161px;
+    margin-left: 162px;
+    font-family: 'Gilroy', sans-serif;
+    font-size: 20px;
+}
